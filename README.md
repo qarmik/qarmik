@@ -1,47 +1,57 @@
-## Hi there 👋
+Hi 👋
+I’m Rohit Kumar (Qarmik).
 
-My name is Rohit Kumar (Qarmik - Q as in Qarmik).
+---
 
 ## What I build
 
-I build **investigator-led risk and accountability tooling** for fintech and financial-crime teams.
+I build **deterministic, audit-ready systems for AI behavior and accountability**.
 
-My work is **post-incident and evidence-first**:
-- deterministic artifacts over dashboards
-- explicit refusals instead of silent gaps
-- tooling designed to survive audit and regulatory scrutiny
+My work focuses on:
 
-This is hands-on execution, not policy commentary.
+* structured memory and belief systems (MNEMOS)
+* post-incident accountability protocols (Protocol Qv)
+* interaction-aware systems that model human resistance and reasoning
+
+---
+
+## Design principles
+
+* artifacts over narratives
+* explicit refusal over silent failure
+* unknowns preserved, not resolved
+* systems that can be audited, replayed, and challenged
 
 ---
 
 ## Current focus
 
-- Financial crime tooling (EDD, mule networks, audit artifacts)
-- Post-incident accountability workflows
-- Python-first, low-LOC, regulator-legible outputs
-
-Where possible, tools are designed to mirror how experienced investigators actually reason — not how systems claim they do.
+* AI memory systems (behavior + retrieval + adaptation)
+* accountability pipelines for AI incidents
+* Python-first, low-complexity, regulator-legible outputs
+* building systems that reflect how decisions are actually made — not how they are claimed to be made
 
 ---
 
 ## What this is not
 
-- Not employer-affiliated
-- Not a product or service
-- Not pre-deployment risk scoring
-- Not predictive or behavioral surveillance
+* not employer-affiliated
+* not a product or service
+* not predictive surveillance
+* not policy commentary
 
-All work here is **independent** and intended for technical and regulatory examination.
+All work here is independent and intended for **technical, systems, and regulatory examination**.
 
 ---
 
 ## How to read this GitHub
 
-- Repositories show **finished artifacts**, not demos
-- Documentation states **limits explicitly**
-- If something cannot be done, that is recorded — not hidden
+* repositories contain **finished, inspectable artifacts**
+* documentation states limits explicitly
+* absence of an artifact = mechanism not enforced
+* refusal is a valid and auditable outcome
 
-If you are reviewing this as a fintech, audit, or risk leader:
-this repository is meant to be read, challenged, and replayed.
+---
 
+If you are reviewing this as a systems builder, researcher, or regulator:
+this work is meant to be read, challenged, and replayed.
