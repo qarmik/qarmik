@@ -1,54 +1,79 @@
 # Hi, I’m Rohit Kumar (Qarmik)
 
-I currently work in large-scale banking operations and compliance, and I am building a long-term transition into Enterprise AI Systems & Infrastructure Engineering.
+I work in banking, with experience primarily across branch operations, retail credit, and administrative/control workflows.
 
-My work focuses on production-oriented AI systems that are:
-- observable
-- auditable
-- reliable under operational constraints
-- designed for human oversight and real-world failure handling
+I am building hands-on engineering capability around a specific enterprise AI problem:
 
-## Current Focus Areas
+**How should consequential AI agents be permitted, verified, monitored, controlled, and stopped inside regulated institutions?**
 
-- AI infrastructure and inference systems
-- LLMOps and evaluation pipelines
-- Agentic workflows and orchestration
-- Retrieval, memory, and context systems
-- AI reliability, observability, and governance
-- Human-in-the-loop architectures for regulated environments
+My current technical focus is the control layer around enterprise AI systems:
+
+- identity, authorization, and tool permissions
+- evidence, provenance, and deterministic verification
+- durable workflow state and failure handling
+- evaluation and adversarial testing
+- human-in-the-loop and maker-checker architectures
+- observability, auditability, and incident reconstruction
+- stop, recovery, and restart mechanisms
+
+## Domain Background
+
+My banking experience is primarily in:
+
+- branch banking operations
+- retail credit
+- administrative and supervisory workflows
+- maker-checker environments
+- exception handling and escalation
+- audit- and compliance-sensitive processes
+
+My technical projects use synthetic or public data and are independent engineering work. They are not production deployments inside SBI.
 
 ## Engineering Principles
 
 - artifacts over narratives
+- authority enforced in systems, not prompts
+- evidence over self-reported success
 - explicit failure handling over silent assumptions
-- systems designed for inspection, replay, and auditability
+- systems designed for inspection, reconstruction, and auditability
 - operational simplicity before architectural complexity
-- production reliability over demo optimization
+- limitations documented rather than hidden
 
-## Repository Structure
+## Current Build Direction
 
-Repositories generally fall into four categories:
+I am progressively building a governed agent control plane for regulated workflows.
 
-### Infrastructure
-Inference serving, orchestration, deployment, evaluation, and runtime systems.
+The system is intended to explore:
 
-### Reliability & Governance
-Auditability pipelines, tracing systems, HITL workflows, policy enforcement, and incident review tooling.
+**Goal → Permission → Evidence → Power**
 
-### Memory & Retrieval
-Structured memory systems, retrieval pipelines, context management, and behavior-aware state handling.
+- What outcome is the system allowed to pursue?
+- What can the agent do, and under whose authority?
+- What independent evidence shows that it behaved correctly?
+- Who can stop it, recover from failure, and authorize restart?
 
-### Systems Research
-Architecture experiments, protocol designs, failure analysis, and long-horizon AI systems thinking.
+## Earlier Work
 
-## Current Transition Path
+Previous repositories include experiments in:
 
-My current learning and build path includes:
-- Python systems engineering
-- AI infrastructure and serving systems
-- Distributed systems fundamentals
-- Production inference optimization
-- Observability and evaluation pipelines
-- Enterprise AI governance
+- AI accountability and incident evidence
+- regulatory document processing
+- AI memory and retrieval architectures
 
-All work here is independent and developed in public as part of a long-term engineering transition.
+These projects represent earlier stages of my technical development. My current focus is governed enterprise AI systems for regulated environments.
+
+## Current Learning Path
+
+My present build path concentrates on:
+
+- Python engineering and debugging
+- APIs, identity, authorization, and persistent state
+- constrained agent runtimes
+- evidence-grounded retrieval
+- reliability, idempotency, tracing, and recovery
+- evaluation and adversarial testing
+- HITL / maker-checker systems
+- AI governance and operational risk
+- cost, latency, and SLO literacy
+
+Selected independent work is published here as evidence of that engineering transition.
